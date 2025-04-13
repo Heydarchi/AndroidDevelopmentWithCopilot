@@ -1,5 +1,12 @@
 # AndroidDevelopmentWithCopilot
-This repo is an example on how to use Copilot to develop an Android application
+This repo is an example on how use AI to develop an Android application.
+This repo was used to compare the three new AI code assistant:
+- **GPT-4o**
+- **Claude Sonnet 3.7**
+- **Gemini 2.5**
+
+The IDE used to compare them was VSCode. You can check the video through the link below:
+ 
 
 ## Project definition
 
