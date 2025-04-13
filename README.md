@@ -43,8 +43,10 @@ Here you can find the project definition:
 - Develop the application based on the plantuml diagram provided below which shows the architecture of the project. 
 - Only the important aspects, relationships, and key features are defined. So you can add the rest of the requirements.
 
+![The project architecture](project_architecture.png)
 
-'''
+
+```
 @startuml
 
 abstract class IBluetooth{
@@ -147,4 +149,4 @@ FirstFragment --> BtViewModel
 
 
 @enduml
-'''
+```
