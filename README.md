@@ -6,7 +6,9 @@ This repo was used to compare the three new AI code assistant:
 - **Gemini 2.5**
 
 The IDE used to compare them was VSCode. You can check the video through the link below:
- 
+
+[![AI Coding Assistants Battle: Copilot (GPT-4o) vs Claude 3.5 vs Gemini 1.5 – Android Dev Test!](https://img.youtube.com/vi/JVMevHEecAU/maxresdefault.jpg)](https://youtu.be/JVMevHEecAU)
+
 
 ## Project definition
 
